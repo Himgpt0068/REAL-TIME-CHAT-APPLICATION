@@ -121,18 +121,7 @@ npm start
 4. See messages appear instantly with no page reloads.
 
 
-
-
----
-
-📸 Screenshots
-
-Chat Window	Mobile View
-
 	
-
-
-
 ---
 
 📈 Future Enhancements
